@@ -2,7 +2,7 @@
 
 count = 10
 
-while 10 > 1 do
+while count > 1 do
   puts "Happy New Years!"
   
   count -= 1
