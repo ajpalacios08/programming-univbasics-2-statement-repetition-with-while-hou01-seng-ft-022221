@@ -8,4 +8,4 @@ while count > 0 do
    count -= 1
    
 end
-puts "Happy New Years"
+puts "Happy New Years!"
