@@ -3,7 +3,7 @@
 count = 10
 
 while count > 1 do
-  puts "Happy New Years!"
-  
-  count -= 1
-end  
+   count -= 1
+   
+end
+puts "Happy New Years"
